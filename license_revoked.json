@@ -1,4 +1,11 @@
 {
-  "updated": "2026-10-20 21:57:14",
-  "revoked": []
+  "updated": "2026-10-20 22:00:13",
+  "revoked": [
+    {
+      "id": "BB-EFF4-9A89",
+      "tier": "standard",
+      "revoked_at": "2026-10-20 22:00:13",
+      "customer": "AMICO"
+    }
+  ]
 }
