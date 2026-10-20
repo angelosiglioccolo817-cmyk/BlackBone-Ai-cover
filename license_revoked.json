@@ -1,4 +1,11 @@
 {
-  "updated": "2026-10-20 21:40:36",
-  "revoked": []
+  "updated": "2026-10-20 21:40:53",
+  "revoked": [
+    {
+      "id": "BB-0B1E-213C",
+      "tier": "standard",
+      "revoked_at": "2026-10-20 21:40:53",
+      "customer": "PROVA REVOCHIONE"
+    }
+  ]
 }
