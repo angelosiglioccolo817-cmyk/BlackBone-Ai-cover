@@ -1,0 +1,11 @@
+{
+  "updated": "2026-10-20 21:38:03",
+  "revoked": [
+    {
+      "id": "BB-377D-B7B8",
+      "tier": "standard",
+      "revoked_at": "2026-10-20 21:38:02",
+      "customer": "PROVA CACHE2"
+    }
+  ]
+}
