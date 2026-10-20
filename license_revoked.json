@@ -1,11 +1,4 @@
 {
-  "updated": "2026-10-20 21:53:18",
-  "revoked": [
-    {
-      "id": "BB-9561-9C4C",
-      "tier": "studio",
-      "revoked_at": "2026-10-20 21:53:18",
-      "customer": "Ciro"
-    }
-  ]
+  "updated": "2026-10-20 21:54:19",
+  "revoked": []
 }
