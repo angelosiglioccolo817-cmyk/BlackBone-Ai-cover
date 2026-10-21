@@ -102,7 +102,12 @@ in locale.
 **Posso usare le voci che alleno qui su un altro computer?** Ogni voce e' un
 modello RVC: basta copiare la cartella del modello.
 
-**Dove posso trovare la licenza?** Basta scrivermi per la licenza base gratis!
+---
+
+**Dove posso trovare la licenza?**
+Basta scrivermi su discord nome:sharp_s_s per la licenza base gratis!
+
+
 ---
 
 ## Licenza
