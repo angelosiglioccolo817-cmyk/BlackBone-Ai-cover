@@ -102,6 +102,7 @@ in locale.
 **Posso usare le voci che alleno qui su un altro computer?** Ogni voce e' un
 modello RVC: basta copiare la cartella del modello.
 
+**Dove posso trovare la licenza?** Basta scrivermi per la licenza base gratis!
 ---
 
 ## Licenza
