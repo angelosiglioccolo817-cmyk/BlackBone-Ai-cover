@@ -1,5 +1,5 @@
 # BlackBone AI
-
+**DISCORD SERVER https://discord.gg/nRfSCHUA4**
 **Coperture vocali con l'intelligenza artificiale, in locale.**
 Separa la voce dalla canzone, la converte con il modello che scegli e la rimette
 al posto con l'originale. Tutto gira sulla tua scheda video: niente account,
