@@ -42,7 +42,7 @@ La licenza Ã¨ firmata digitalmente (Ed25519) e cifrata con DPAPI di Windows: n
 
 - Windows 10 o 11
 - Python 3.10 (python.org)
-- Circa 4 GB di spazio libero
+- Circa 10 GB di spazio libero
 - Connessione internet per l'installazione iniziale (PyTorch e dipendenze)
 
 ## File nella release
