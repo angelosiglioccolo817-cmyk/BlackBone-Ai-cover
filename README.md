@@ -9,7 +9,7 @@ Cover vocali con l'intelligenza artificiale, tutto in locale sul tuo PC.
 - Sistema licenze (Standard, Studio, Pro) con livelli di accesso differenti
 - Esportazione in WAV, MP3, FLAC in base al livello di licenza
 
-## Come installare (senza exe — nessun falso positivo antivirus)
+## Come installare (senza exe â€” nessun falso positivo antivirus)
 
 1. Scarica e estrai BlackBoneVoiceCoverAI-Source.zip dalla [Release v3.02-ALPHA](https://github.com/angelosiglioccolo817-cmyk/BlackBone-Ai-cover/releases/tag/CoverAI-v3.02-ALPHA)
 2. Installa Python 3.10 da [python.org](https://python.org) (non Microsoft Store)
@@ -36,7 +36,7 @@ Livelli disponibili:
 - **Studio**: 10 modelli, WAV e MP3, allenamento, 3 canzoni alla volta
 - **Pro**: tutto, formati WAV/MP3/FLAC, coda illimitata
 
-La licenza è firmata digitalmente (Ed25519) e cifrata con DPAPI di Windows: non si può copiare su un altro computer né modificare.
+La licenza Ã¨ firmata digitalmente (Ed25519) e cifrata con DPAPI di Windows: non si puÃ² copiare su un altro computer nÃ© modificare.
 
 ## Requisiti
 
@@ -49,7 +49,7 @@ La licenza è firmata digitalmente (Ed25519) e cifrata con DPAPI di Windows: non
 
 | File | Descrizione |
 |------|-------------|
-| BlackBoneVoiceCoverAI-Installer.exe | Installer .exe (può essere segnalato come falso positivo da Windows Defender — non è firmato) |
+| BlackBoneVoiceCoverAI-Installer.exe | Installer .exe (puÃ² essere segnalato come falso positivo da Windows Defender â€” non Ã¨ firmato) |
 | BlackBoneVoiceCoverAI-Source.zip | Codice sorgente completo, nessun exe, nessun problema antivirus |
 
 ## Supporto
@@ -57,4 +57,4 @@ La licenza è firmata digitalmente (Ed25519) e cifrata con DPAPI di Windows: non
 Per chiavi di licenza, problemi o supporto: apri una Issue su questo repository.
 
 ---
-Sviluppato da BlackBone AI — tutto in locale, niente cloud.
+Sviluppato da BlackBone AI â€” tutto in locale, niente cloud.
