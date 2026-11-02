@@ -1,5 +1,4 @@
-# BlackBone VoiceCover AI 3.02 ALPHA
-
+# BlackBone VoiceCover
 Cover vocali con l'intelligenza artificiale, tutto in locale sul tuo PC.
 
 ## Cosa fa
