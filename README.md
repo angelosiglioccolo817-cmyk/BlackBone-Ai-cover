@@ -19,7 +19,7 @@ Cover vocali con l'intelligenza artificiale, tutto in locale sul tuo PC.
 
 | File | Descrizione |
 |------|-------------|
-| BlackBoneVoiceCoverAI-Installer.exe | Installer .exe (puÃ² essere segnalato come falso positivo da Windows Defender â€” non Ã¨ firmato) |
+| BlackBoneVoiceCoverAI-Installer.exe | Installer .exe  |
 | BlackBoneVoiceCoverAI-Source.zip | Codice sorgente completo, nessun exe, nessun problema antivirus |
 
 ## Supporto
